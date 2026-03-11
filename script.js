@@ -140,7 +140,7 @@ function showRecipeDetails(data) {
     if (data.meals && data.meals[0]) {
         const meal = data.meals[0];
 
-        const countryCode = areaFlags[meal.strArea];
+        const countryCode = areaToCode[meal.strArea];
         const flagURL = countryCode
             ? `https://flagcdn.com/24x18/${countryCode}.png`
             : "";
