@@ -1,6 +1,10 @@
 # Recipe Finder 🍽️
 
-Recipe Finder is a simple web app that lets you search for meals, view recipe details, and explore random dishes from around the world. It uses [TheMealDB API](https://www.themealdb.com/api.php) to fetch meal data including ingredients, instructions, categories, and country flags.
+Recipe Finder is a simple web app that lets users search for meals, view recipe details, and explore random dishes from around the world. It uses TheMealDB API to fetch meal data including ingredients, instructions, categories, and country of origin.
+
+## Live Demo
+
+🔗 https://recipe-finder-themealdb.netlify.app
 
 ## Features
 
@@ -15,14 +19,7 @@ Recipe Finder is a simple web app that lets you search for meals, view recipe de
   
 ## Technologies Used
 
-- HTML5, CSS3, JavaScript 
+- HTML5, CSS3, JavaScript
 - [TheMealDB API](https://www.themealdb.com/api.php)
+- [FlagCDN](https://flagcdn.com/) for country flags
 - Font Awesome for icons
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/recipe-finder.git
-2. Open index.html in your browser.
-3. Start searching for meals or explore random recipes!
