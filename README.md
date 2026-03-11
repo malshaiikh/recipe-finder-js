@@ -4,7 +4,7 @@ Recipe Finder is a simple web app that lets users search for meals, view recipe 
 
 ## Live Demo
 
-🔗 https://recipe-finder-themealdb.netlify.app
+[Open Recipe Finder](https://recipe-finder-themealdb.netlify.app)
 
 ## Features
 
